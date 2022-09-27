@@ -1,6 +1,6 @@
 
 28_Group
-Termial. HW_1
+Termial HW_1
 
 1) Посмотреть где я - pwd
 2) Создать папку - mkdir 1_Linux
